@@ -1,0 +1,10 @@
+C:\Users\sefa2\Desktop\Workspace-SefaDedeoglu\vscommunity\.NET masaüstü uyg\indirilenlerKlasörü\indirilenlerKlasörü\bin\Debug\indirilenlerKlasörü.exe.config
+C:\Users\sefa2\Desktop\Workspace-SefaDedeoglu\vscommunity\.NET masaüstü uyg\indirilenlerKlasörü\indirilenlerKlasörü\bin\Debug\indirilenlerKlasörü.exe
+C:\Users\sefa2\Desktop\Workspace-SefaDedeoglu\vscommunity\.NET masaüstü uyg\indirilenlerKlasörü\indirilenlerKlasörü\bin\Debug\indirilenlerKlasörü.pdb
+C:\Users\sefa2\Desktop\Workspace-SefaDedeoglu\vscommunity\.NET masaüstü uyg\indirilenlerKlasörü\indirilenlerKlasörü\obj\Debug\indirilenlerKlasörü.csprojAssemblyReference.cache
+C:\Users\sefa2\Desktop\Workspace-SefaDedeoglu\vscommunity\.NET masaüstü uyg\indirilenlerKlasörü\indirilenlerKlasörü\obj\Debug\indirilenlerKlasörü.Properties.Resources.resources
+C:\Users\sefa2\Desktop\Workspace-SefaDedeoglu\vscommunity\.NET masaüstü uyg\indirilenlerKlasörü\indirilenlerKlasörü\obj\Debug\indirilenlerKlasörü.csproj.GenerateResource.cache
+C:\Users\sefa2\Desktop\Workspace-SefaDedeoglu\vscommunity\.NET masaüstü uyg\indirilenlerKlasörü\indirilenlerKlasörü\obj\Debug\indirilenlerKlasörü.csproj.CoreCompileInputs.cache
+C:\Users\sefa2\Desktop\Workspace-SefaDedeoglu\vscommunity\.NET masaüstü uyg\indirilenlerKlasörü\indirilenlerKlasörü\obj\Debug\indirilenlerKlasörü.exe
+C:\Users\sefa2\Desktop\Workspace-SefaDedeoglu\vscommunity\.NET masaüstü uyg\indirilenlerKlasörü\indirilenlerKlasörü\obj\Debug\indirilenlerKlasörü.pdb
+C:\Users\sefa2\Desktop\Workspace-SefaDedeoglu\vscommunity\.NET masaüstü uyg\indirilenlerKlasörü\indirilenlerKlasörü\obj\Debug\indirilenlerKlasörü.uygulamaForm.resources
